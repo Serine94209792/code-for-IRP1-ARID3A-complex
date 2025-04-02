@@ -6,8 +6,9 @@ code for IRP1/ARID3A complex promotes pancreatic cancer chemoresistance by suppr
 
 ## usage 
  
- `cd /usrname/path_to_your_file/
- bash rna_seq.sh #atac_seq.sh
+ `cd /usrname/path_to_your_file/  
+ 
+ bash rna_seq.sh #or bash atac_seq.sh
  `
  
  ---

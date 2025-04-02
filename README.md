@@ -2,7 +2,6 @@
 
 code for IRP1/ARID3A complex promotes pancreatic cancer chemoresistance by suppressing CYGB-related ferroptosis, including analysis of ***ATAC-seq*** and ***RNAseq***.  
 
- ---
 
 ## usage 
  
@@ -11,8 +10,6 @@ code for IRP1/ARID3A complex promotes pancreatic cancer chemoresistance by suppr
  bash rna_seq.sh #or bash atac_seq.sh
  `
  
- ---
-
 ## software version
 
 ### RNA-seq
